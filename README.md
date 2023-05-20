@@ -2,7 +2,7 @@
 ## Data cleaning project using SQL
 This is home value data for the hot Nashville market for properties sold between 2013 and 2016. The data will wrangled and cleaned off irregularities to make it ready for analysis.
 
-# Exploratory Data Analysis
+## Exploratory Data Analysis
 + The properties are located in 14 distinct cities, nashville is topping the list as the city with the highest number of properties (40,216) followed by antioch
 + Most of the properties built on the lands are the single-family properties, followed by residential condos 
 + Most of the properties were sold in 2013
