@@ -11,4 +11,4 @@ This is home value data for the hot Nashville market for properties sold between
 + Vacant commercial lands has the highest average price while vacant zoned multi family lands has the lowest average price
 + Relationship/correlation between sale price and number of bedrooms appear to be moderate meaning the two variables don't have effect on each other to a large extent.
 +  Relationship/correlation between sale price and year_built is very weak meaning the two don't have any effect on each other.
-+  Analysis on the Neighborhoods with the highest increase in average housing prices over the year revealed that
++  Analysis on the Neighborhoods with the highest increase in average housing prices over the year revealed that wheless ST, nashville had the highest growth rate in terms of average housing price, followed by dumbarton DR, nashville.
